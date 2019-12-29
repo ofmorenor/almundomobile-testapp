@@ -1,0 +1,19 @@
+{
+  "name": "almundo-api",
+  "version": "1.0.0",
+  "description": "api almundo",
+  "main": "api.js",
+  "scripts": {
+    "test": "NODE_ENV=test node ./test-api",
+    "start": "node start-api.js"
+  },
+  "keywords": [
+    "almundo",
+    "api"
+  ],
+  "author": "oscar moreno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
