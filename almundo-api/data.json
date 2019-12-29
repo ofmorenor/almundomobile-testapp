@@ -1,0 +1,47 @@
+{
+    "hotels":[
+        {
+            "id": "0001",
+            "name": "hotel emperador",
+            "stars":"1",
+            "images":["i0001-img-0.jpg", "i0001-img-1.jpg", "i0001-img-2.jpg", "i0001-img-3.jpg", "i0001-img-4.jpg"],
+            "price": "50"
+        },
+        {
+            "id": "0002",
+            "name": "hotel hilton criollo",
+            "stars":"2",
+            "images":["i0002-img-0.jpg", "i0002-img-1.jpg", "i0002-img-2.jpg", "i0002-img-3.jpg", "i0002-img-4.jpg"],
+            "price": "75"
+        },
+        {
+            "id": "0003",
+            "name": "hotel principe alberto",
+            "stars":"3",
+            "images":["i0003-img-0.jpg", "i0003-img-1.jpg", "i0003-img-2.jpg", "i0003-img-3.jpg", "i0003-img-4.jpg"],
+            "price": "65"
+        },
+        {
+            "id": "0004",
+            "name": "posada del monte",
+            "stars":"4",
+            "images":["i0004-img-0.jpg", "i0004-img-1.jpg", "i0004-img-2.jpg", "i0004-img-3.jpg", "i0004-img-4.jpg"],
+            "price": "40"
+        },
+        {
+            "id": "0005",
+            "name": "california land",
+            "stars":"5",
+            "images":["i0005-img-0.jpg", "i0005-img-1.jpg", "i0005-img-2.jpg", "i0005-img-3.jpg", "i0005-img-4.jpg"],
+            "price": "80"
+        }
+    ]
+}
+    ]
+}
+    ]
+}
+    ]
+}
+    ]
+}
