@@ -4,8 +4,8 @@
   "description": "api almundo",
   "main": "api.js",
   "scripts": {
-    "test": "NODE_ENV=test node ./test-api",
-    "start": "node start-api.js"
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha ./test/test-api.js",
+    "start": "node start-server.js"
   },
   "keywords": [
     "almundo",
@@ -15,5 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
   }
 }
