@@ -1,4 +1,5 @@
 {
+    "imgagesUrl": "http://localhost:3000/public/img",
     "hotels":[
         {
             "id": "0001",
@@ -35,13 +36,5 @@
             "images":["i0005-img-0.jpg", "i0005-img-1.jpg", "i0005-img-2.jpg", "i0005-img-3.jpg", "i0005-img-4.jpg"],
             "price": "80"
         }
-    ]
-}
-    ]
-}
-    ]
-}
-    ]
-}
     ]
 }
